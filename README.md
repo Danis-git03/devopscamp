@@ -1,4 +1,4 @@
-# Bootcamp Git Project
+# bootcamp devopes - repositori latihan
 # Sesi Git 1## Tujuan
 belajar git workflow.
 ## senarai arahan
