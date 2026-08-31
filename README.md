@@ -7,3 +7,4 @@ belajar git workflow.
 # - git init / git add / git commit
 ## tarikh
 ## diubah dari laptop
+## diubah dari salinan
