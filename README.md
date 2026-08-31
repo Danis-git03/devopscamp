@@ -6,3 +6,4 @@ belajar git workflow.
 ## senarai arahan
 # - git init / git add / git commit
 ## tarikh
+## diubah dari laptop
